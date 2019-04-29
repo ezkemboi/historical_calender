@@ -1,0 +1,3 @@
+rootProject.name = 'historicalcalender'
+
+include ':app'
